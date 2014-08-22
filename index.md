@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feenan's Blog
+title: 标签云
 tagline: 
 ---
 {% include JB/setup %}
