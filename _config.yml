@@ -71,7 +71,7 @@ JB :
   #
   archive_path: /archive.html
   categories_path : /categories.html
-  tags_path : /tags.html
+  tags_path : false
   atom_path : /atom.xml
   rss_path : /rss.xml
 
