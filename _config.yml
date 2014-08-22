@@ -9,12 +9,12 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Feenan's blog
-tagline: Site Tagline
+tagline: 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Feenan
+  email : xuwenmin12580@gmail.com
+  github : xuwenmin
+  twitter : feenanxu
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed

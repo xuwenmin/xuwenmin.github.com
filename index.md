@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Feenan's Blog
+tagline: 前端工程师
 ---
 {% include JB/setup %}
 
