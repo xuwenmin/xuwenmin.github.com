@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 标签云
+title: 首页
 tagline: 
 ---
 {% include JB/setup %}
