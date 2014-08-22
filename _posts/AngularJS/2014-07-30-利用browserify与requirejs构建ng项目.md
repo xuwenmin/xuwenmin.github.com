@@ -1,6 +1,6 @@
 ---
 layout: post
-category : ng
+category : AngularJS
 tagline: ""
 tags : [ng,源码]
 ---
