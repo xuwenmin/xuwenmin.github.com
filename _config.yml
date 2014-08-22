@@ -80,8 +80,8 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
-    duoshuo :
+    provider : disqus
+    disqus :
       short_name : feenan
    
   # Settings for analytics helper
