@@ -22,6 +22,18 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
+
+## 代码高亮测试
+
+```c
+/* hello world demo */
+#include <stdio.h>
+int main(int argc, char **argv)
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+```
     
 ## Sample Posts
 
