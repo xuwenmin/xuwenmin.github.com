@@ -2,7 +2,7 @@
 layout: post
 category : AngularJS
 tagline: ""
-tags : [ng,源码]
+tags : [Browserify,requirejs,angularjs]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-category : ng
+category : AngularJS
 tagline: ""
-tags : [ng,源码]
+tags : [ng,性能优化]
 ---
 {% include JB/setup %}
 
