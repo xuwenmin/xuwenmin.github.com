@@ -79,7 +79,7 @@ $rootScope.$digest
 
 当在页面内的模型后面增加`filter`时,这个会造成当前模型在`$digest`里运行两次,造成不必要的性能浪费.第一次在`$$watchers`检测任务改变时;第二次发生在模型值修改时,所以尽量少用内联时的过滤器语法,像下面这样的非常影响页面性能
 
-```js
+```html
 
 {{ filter_expression | filter : expression : comparator }}
 
