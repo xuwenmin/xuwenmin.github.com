@@ -17,7 +17,7 @@ title: 首页
   <ul>
 {% endif %}
 
-<li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+<li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a target="_blank" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 
 {% if forloop.last %}
   </ul>
