@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 首页
-tagline: 
+header : Post Archive
+group: navigation
 ---
 {% include JB/setup %}
 
@@ -10,7 +11,6 @@ tagline:
 {% include JB/posts_collate %}
 
 
----
 
 ### 标签云
 
