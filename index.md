@@ -1,8 +1,6 @@
 ---
 layout: page
 title: 首页
-header : Post Archive
-group: navigation
 ---
 {% include JB/setup %}
 
