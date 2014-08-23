@@ -13,8 +13,8 @@ tags : [ES6,Generator]
 
 下面是Generator系列的相关文章链接
 
-* <a href="http://www.ifeenan.com/javascript/2014-07-27-ES6%E7%B3%BB%E5%88%97%E4%B9%8BGenerator/" target="_blank">Generator基础篇</a>
-* <a href="http://www.ifeenan.com/javascript/2014-07-28-ES6%E7%B3%BB%E5%88%97%E4%B9%8B%E6%B7%B1%E5%85%A5Generator/" target="_blank">深入Generator之异常处理与相互调用</a>
+* <a href="http://www.ifeenan.com/javascript/2014-07-27-ES6%E7%B3%BB%E5%88%97%E4%B9%8BGenerator%E5%9F%BA%E7%A1%80%E7%AF%87/" target="_blank">Generator基础篇</a>
+* <a href="http://www.ifeenan.com/javascript/2014-07-28-ES6%E7%B3%BB%E5%88%97%E4%B9%8B%E6%B7%B1%E5%85%A5Generator%E4%B9%8B%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E7%9B%B8%E4%BA%92%E8%B0%83%E7%94%A8/" target="_blank">深入Generator之异常处理与相互调用</a>
 * <a href="http://www.ifeenan.com/javascript/2014-08-04-ES6%E7%B3%BB%E5%88%97%E4%B9%8B%E6%B7%B1%E5%85%A5Generator2/" target="_blank">深入Generator之异步方法处理</a>
 * <a href="http://www.ifeenan.com/javascript/2014-08-15-ES6%E7%B3%BB%E5%88%97%E4%B9%8BGenerator%E5%B9%B6%E5%8F%91%E8%B0%83%E7%94%A8/" target="_blank">深入Generator之协程处理</a>
 
