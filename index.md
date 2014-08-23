@@ -4,7 +4,7 @@ title: 首页
 ---
 {% include JB/setup %}
 
-
+<div class="col-xs-12">
 {% for post in site.posts  %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
@@ -36,6 +36,7 @@ title: 首页
   {% endif %}
 {% endif %}
 {% endfor %}
+</div>
 
 
 
