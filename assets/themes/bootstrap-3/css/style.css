@@ -104,3 +104,6 @@ h1, h2, h3, h4 {
    -webkit-transition: background-color .2s; 
    transition: background-color .2s; 
 }
+.rss-form{
+  margin-right: 100px;
+}
