@@ -83,8 +83,8 @@ h1, h2, h3, h4 {
   display: block;
   position: fixed;
   z-index: 100;
-  top: 1.5em;
-  right: -6em;
+  top: 40px;
+  right: -40px;
   padding: .4em 1em;
   width: 15em;
   text-align: center;
