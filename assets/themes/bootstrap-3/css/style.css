@@ -105,5 +105,5 @@ h1, h2, h3, h4 {
    transition: background-color .2s; 
 }
 .rss-form{
-  margin-right: 100px;
+  margin-right: 100px !important;
 }
