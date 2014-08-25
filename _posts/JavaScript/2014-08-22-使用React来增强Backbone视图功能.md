@@ -228,7 +228,7 @@ React.renderComponent((
 
 `React`官方也提供了一个与`Backbone`结合的`Todo`例子,<a href="https://github.com/facebook/react/tree/master/examples/todomvc-backbone" target="_blank">an example Backbone+React TodoMVC app</a>
 
-虽然`React`阵营不是很成熟,但是它是一个令人兴奋的库,而且还可以投入生死环境,非常适合用来构建重用的组件,与`Backbone`的结合更是能够增强视图方面的业务能力.
+虽然`React`阵营不是很成熟,但是它是一个令人兴奋的库,而且还可以投入生产环境,非常适合用来构建重用的组件,与`Backbone`的结合更是能够增强视图方面的业务能力.
 
 
 
